@@ -1,0 +1,1 @@
+This directory contains the log for table detection by the model and by smearing

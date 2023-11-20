@@ -1,0 +1,12 @@
+venv/*
+.idea/*
+.vscode/*
+results/*
+
+.DS_Store
+
+*.pyc
+*.pk
+*.pth
+
+app.log
